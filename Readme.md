@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridLayoutHelper.cs](./CS/GridLayoutHelper.cs) (VB: [GridLayoutHelper.vb](./VB/GridLayoutHelper.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/MainPage.xaml))
+<!-- default file list end -->
 # How to provide an event that is raised on changing a grid layout
 
 
